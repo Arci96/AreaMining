@@ -1,0 +1,6 @@
+name: AreaMining
+version: '${version}'
+main: de.example.areamining.AreaMiningPlugin
+bootstrapper: de.example.areamining.AreaMiningBootstrap
+api-version: '1.21.11'
+description: Area-Mining Verzauberung (3x3, 4x4, 5x5) fuer Spitzhacke und Schaufel
